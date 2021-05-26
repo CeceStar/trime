@@ -1,10 +1,6 @@
-# Hyper Island Code and Collaborate Project - FED and UX
+# Trime login process 
+### (Brief 8 *Code and Collaborate Project - Client brief and a collaboration between FED and UX*)
 Client - Trime training app
-
-## Demo
-View the page at
-
-will be up running shortly
 
 ### About this Brief
 For this project we worked with the UX students at Hyper Island to develop a solution for a better user experience to Trimes training app.
