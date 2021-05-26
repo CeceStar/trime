@@ -17,7 +17,7 @@ Elin Amrén - FED
 ### Tools
 Miro  
 Figma  
-Reactjs
+React
 
 
 
