@@ -1,6 +1,6 @@
 # Trime login process 
 ### (Brief 8 *Code and Collaborate Project - Client brief and a collaboration between FED and UX*)
-Client - Trime training app
+Client - Trime training app. Designed for Mobiles.
 
 ### About this Brief
 For this project we worked with the UX students at Hyper Island to develop a solution for a better user experience to Trimes training app.
